@@ -1,10 +1,10 @@
-Heatmap Visualization using GradCAM, GradCAM++, and LRP
+**Heatmap Visualization using GradCAM, GradCAM++, and LRP**
 
-Overview
+**Overview**
 
 This project implements GradCAM, GradCAM++, and Layer-wise Relevance Propagation (LRP) to visualize model interpretability for CNN-based architectures. These techniques help in understanding which regions of an image contribute most to a model's decision.
 
-Features
+**Features**
 
 GradCAM: Highlights important regions using class-specific gradients.
 
